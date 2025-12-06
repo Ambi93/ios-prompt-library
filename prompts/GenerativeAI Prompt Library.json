@@ -1,1 +1,14 @@
-{}
+{
+    "General": [
+        {
+            "title": "Hello World",
+            "text": "Say hello to the world!"
+        }
+    ],
+    "Writing": [
+        {
+            "title": "Creative Story Idea",
+            "text": "Write a short story about a detective who solves crimes using only their sense of smell."
+        }
+    ]
+}
